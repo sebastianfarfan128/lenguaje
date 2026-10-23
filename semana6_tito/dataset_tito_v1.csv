@@ -1,0 +1,121 @@
+texto,categoria
+"¿Cómo solicito una beca?",becas
+"¿Qué apoyos económicos ofrece la escuela?",becas
+"¿Cuáles son las fechas límite para entregar la papelería de becas?",becas
+"¿Qué promedio mínimo me piden para mantener el beneficio el próximo semestre?",becas
+"¿Dónde puedo consultar los resultados de la asignación de becas?",becas
+"Si reprobé una materia, ¿pierdo automáticamente el apoyo económico?",becas
+"¿Puedo combinar la beca de excelencia con un apoyo deportivo o de transporte?",becas
+"¿A qué departamento me dirijo si no me ha llegado el depósito del estímulo?",becas
+"¿Dónde entrego el estudio socioeconómico?",becas
+"¿Existen programas de trabajo o beca-becario dentro del plantel?",becas
+"¿Qué documentos debe presentar mi tutor legal para respaldar la solicitud?",becas
+"¿Hay algún descuento o exención de pago en la cuota si tengo promedio sobresaliente?",becas
+"¿Puedo solicitar un apoyo económico si sufro un cambio imprevisto en los ingresos de mi familia a mitad del ciclo?",becas
+"¿Qué requisitos piden para renovar la beca en el periodo escolar de verano?",becas
+"¿Cuáles son los criterios de vulnerabilidad para otorgar una beca alimenticia?",becas
+"¿A qué hora abre la biblioteca?",biblioteca
+"¿Dónde se encuentra la biblioteca?",biblioteca
+"¿Cuántos libros me puedo llevar en préstamo a domicilio y por cuántos días?",biblioteca
+"¿Cómo renuevo la fecha de entrega de un libro sin tener que ir presencialmente?",biblioteca
+"¿Cuál es el costo de la multa por cada día de retraso en la devolución?",biblioteca
+"¿Cómo accedo al catálogo digital o a la base de datos desde mi casa?",biblioteca
+"¿Hay salas de estudio grupal y cuál es el protocolo para reservarlas?",biblioteca
+"¿Cuentan con servicio de fotocopiado e impresión dentro de las instalaciones?",biblioteca
+"¿Tienen computadoras de uso libre para buscar información si no llevo laptop?",biblioteca
+"¿Dónde puedo reportar que un libro figura como disponible pero no está en los estantes?",biblioteca
+"¿Cuál es la clave de la red Wi-Fi para las salas de lectura?",biblioteca
+"¿Aceptan donaciones de libros de texto académicos?",biblioteca
+"¿Cuentan con cubículos insonorizados para realizar grabaciones de exposiciones o podcasts académicos?",biblioteca
+"¿Tienen servicio de préstamo interbibliotecario con otros campus u universidades?",biblioteca
+"¿Dónde puedo solicitar el préstamo de proyectores o material audiovisual?",biblioteca
+"¿Dónde pido una constancia?",control_escolar
+"Necesito hacer un trámite escolar",control_escolar
+"¿Qué costo tiene el certificado parcial y cómo se efectúa el pago?",control_escolar
+"¿Cuál es el procedimiento para solicitar una baja temporal o definitiva?",control_escolar
+"¿Dónde tramito el duplicado de mi credencial de estudiante en caso de extravío?",control_escolar
+"¿Cómo solicito la revalidación o equivalencia de materias de mi escuela anterior?",control_escolar
+"¿Qué papelería me falta entregar para completar mi expediente personal?",control_escolar
+"¿Dónde gestiono el alta en el seguro médico estudiantil (IMSS)?",control_escolar
+"¿Cómo solicito una corrección en la redacción de mis datos en el sistema?",control_escolar
+"¿A quién le pido una carta de conducta o carta de recomendación institucional?",control_escolar
+"¿Cuál es el proceso para tramitar mi certificado de liberación de servicio social?",control_escolar
+"¿Puedo autorizar a un familiar para que recoja mi documentación oficial?",control_escolar
+"¿Cuál es la fecha límite y el procedimiento para solicitar una corrección en el orden de mis nombres o apellidos?",control_escolar
+"¿Cómo tramito una constancia de estudios con desglose de promedio y tira de materias?",control_escolar
+"¿Cuál es el tiempo de entrega estimado para la expedición de mi título técnico?",control_escolar
+"¿Dónde puedo pedir orientación?",orientacion
+"Necesito apoyo con una decisión académica",orientacion
+"¿Cómo agendo una cita para atención psicológica o tutoría individual?",orientacion
+"Siento mucho estrés por los exámenes, ¿tienen algún taller o apoyo emocional?",orientacion
+"Tengo problemas con la forma de enseñar de un profesor, ¿con quién debo acudir?",orientacion
+"¿Dónde puedo reportar una situación de acoso o hostigamiento dentro del campus?",orientacion
+"¿Hay asesorías entre pares o programas de regularización para materias complejas?",orientacion
+"¿A qué área notifico si tengo una condición médica que requiere adaptaciones en el aula?",orientacion
+"¿Quién me ayuda a elegir la especialidad o carrera más adecuada para mí?",orientacion
+"¿Dónde me justifican las faltas por una incapacidad médica oficial?",orientacion
+"¿Tienen un directorio de atención o canalización de emergencias externas?",orientacion
+"¿Dónde puedo reportar la pérdida o robo de objetos personales dentro del plantel?",orientacion
+"¿Tienen algún programa de canalización o acompañamiento para estudiantes con familiares enfermos o en crisis?",orientacion
+"¿Con quién puedo canalizar una solicitud para adaptación de exámenes si tengo TDAH?",orientacion
+"¿Dónde puedo tomar sesiones grupales sobre manejo de tiempo y hábitos de estudio?",orientacion
+"¿Cuál es mi horario de clases?",horarios
+"¿A qué hora abre control escolar?",horarios
+"¿Cuáles son las horas de atención de la biblioteca los fines de semana?",horarios
+"¿A qué hora empieza y termina la jornada en el turno vespertino?",horarios
+"¿Cuándo se publican las listas con los horarios finales de los grupos?",horarios
+"¿Habrá servicio de cafetería durante los periodos de exámenes finales?",horarios
+"¿En qué horario puedo acudir a la dirección a firmar un documento?",horarios
+"¿Qué días no hay labores administrativas por suspensión oficial?",horarios
+"¿A qué hora cierran los laboratorios de cómputo para los talleres libres?",horarios
+"¿Hasta qué hora se permite el acceso al estacionamiento del campus?",horarios
+"¿Cuáles son los bloques de descanso o receso entre las asignaturas?",horarios
+"¿A qué hora entran y salen los módulos de atención del seguro escolar?",horarios
+"¿Cuál es el horario de atención de los módulos de cajas o tesorería para pagos presenciales?",horarios
+"¿En qué horario operan las áreas deportivas para entrenamiento libre de estudiantes?",horarios
+"¿A qué hora se realiza la apertura y cierre del portón principal del campus?",horarios
+"¿Cuándo empiezan las inscripciones?",inscripciones
+"¿Qué necesito para inscribirme?",inscripciones
+"¿Cómo puedo solicitar un cambio de grupo o de turno?",inscripciones
+"¿Cuál es el costo del pago de reinscripción para este periodo?",inscripciones
+"¿Qué pasa si se me pasó la fecha límite para completar mi ficha de inscripción?",inscripciones
+"¿Dónde descargo la orden o ficha de depósito para el pago de la cuota?",inscripciones
+"¿Cómo puedo dar de baja o agregar una materia a mi carga académica?",inscripciones
+"¿Dónde debo entregar el certificado original de secundaria/preparatoria?",inscripciones
+"¿Cómo genero mi cuenta de correo institucional si soy de nuevo ingreso?",inscripciones
+"¿Existe alguna prórroga para pagar la cuota de reinscripción?",inscripciones
+"¿Cuáles son los requisitos y fechas para el examen de admisión?",inscripciones
+"¿A dónde envío los documentos si el proceso de registro se hace en línea?",inscripciones
+"¿Cómo solicito una exención o validez de materias por experiencia laboral demostrable?",inscripciones
+"¿Puedo adelantar materias durante el periodo de inscripciones de verano?",inscripciones
+"¿Qué documentación adicional deben entregar los alumnos extranjeros para inscribirse?",inscripciones
+"¿Dónde consulto mis calificaciones?",calificaciones
+"Quiero aclarar una calificación",calificaciones
+"¿Cuándo cierran las plataformas para que los profesores capturen notas?",calificaciones
+"El profesor asentó una calificación errónea en mi boleta, ¿cuál es el proceso de revisión?",calificaciones
+"¿Cómo descargo mi historial académico o kardex no oficial?",calificaciones
+"¿Cuántas materias puedo reprobar antes de perder la condición de alumno regular?",calificaciones
+"¿Cuál es la fecha para inscribirme a los exámenes extraordinarios o a título de suficiencia?",calificaciones
+"¿Cuál es el costo por presentar un examen de regularización?",calificaciones
+"¿Dónde reviso si ya se actualizó mi nota del examen extraordinario?",calificaciones
+"¿Cómo solicito una evaluación por parte de un jurado o comité docente?",calificaciones
+"¿En qué apartado del portal aparece el desglose por parciales?",calificaciones
+"¿Qué promedio general acumulo hasta el semestre actual?",calificaciones
+"¿Cuál es el margen de tiempo legal que tiene un docente para publicar las notas de un proyecto final?",calificaciones
+"¿Dónde puedo impugnar una nota asignada en un examen ordinario si considero injusta la revisión?",calificaciones
+"¿Qué documento me avala las calificaciones si requiero tramitar un cambio de universidad?",calificaciones
+"¿Qué actividades hay esta semana?",actividades
+"¿Hay clubes para estudiantes?",actividades
+"¿Cuáles son los requisitos y fechas de visorías para los equipos deportivos representativos?",actividades
+"¿El uso del gimnasio del campus es gratuito para la comunidad escolar?",actividades
+"¿Estas actividades culturales o deportivas otorgan créditos complementarios?",actividades
+"¿Dónde solicito el permiso para hacer uso de las canchas fuera del horario escolar?",actividades
+"¿Cuándo inician las inscripciones para los torneos intercolegiales?",actividades
+"¿Tienen talleres de teatro, danza o música en el turno vespertino?",actividades
+"¿Cómo puedo registrar un nuevo club o sociedad de alumnos?",actividades
+"¿Dónde me entregan la constancia de acreditación de la actividad extracurricular?",actividades
+"¿Hay casilleros (lockers) disponibles cerca del área deportiva y cómo se asignan?",actividades
+"¿Qué costo o uniforme especial se requiere para los talleres artísticos?",actividades
+"¿Se requiere un seguro médico especial para representar a la institución en competencias fuera de la ciudad?",actividades
+"¿Cuándo se lleva a cabo la feria anual de clubes e iniciativas estudiantiles?",actividades
+"¿Cuáles son los talleres de voluntariado y servicio comunitario que tienen activos?",actividades
